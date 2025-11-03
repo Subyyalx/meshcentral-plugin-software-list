@@ -1,17 +1,14 @@
 {
-  "name": "Installed Software Viewer",
+  "name": "Installed Software List",
   "shortName": "installedsoftware",
   "version": "1.0.0",
-  "author": "XavorUser",
-  "description": "Adds a tab in device view to list installed software via PowerShell.",
+  "author": "Subyyalx",
+  "description": "Lists installed software on endpoints.",
   "hasAdminPanel": false,
-  "homepage": "https://xavor.com",
-  "changelogUrl": "https://example.com/changelog.md",
-  "configUrl": "https://example.com/config.json",
-  "downloadUrl": "https://example.com/installedsoftware.zip",
+  "homepage": "https://github.com/Subyyalx/meshcentral-plugin-software-list",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xavor/installedsoftware.git"
+    "url": "https://github.com/Subyyalx/meshcentral-plugin-software-list.git"
   },
   "meshCentralCompat": ">=1.1.0"
 }
