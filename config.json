@@ -1,0 +1,17 @@
+{
+  "name": "Installed Software Viewer",
+  "shortName": "installedsoftware",
+  "version": "1.0.0",
+  "author": "XavorUser",
+  "description": "Adds a tab in device view to list installed software via PowerShell.",
+  "hasAdminPanel": false,
+  "homepage": "https://xavor.com",
+  "changelogUrl": "https://example.com/changelog.md",
+  "configUrl": "https://example.com/config.json",
+  "downloadUrl": "https://example.com/installedsoftware.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xavor/installedsoftware.git"
+  },
+  "meshCentralCompat": ">=1.1.0"
+}
